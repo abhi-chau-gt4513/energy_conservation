@@ -1,0 +1,8486 @@
+﻿[
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1550,
+            "start": 1323,
+            "end": 1322,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 2850
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1571,
+            "start": 1328,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1572,
+            "start": 1329,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3050
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1553,
+            "start": 1323,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1571,
+            "start": 1328,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1577,
+            "start": 1329,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3150
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1569,
+            "start": 1326,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1572,
+            "start": 1329,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3350
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1567,
+            "start": 1326,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1571,
+            "start": 1328,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1577,
+            "start": 1329,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3350
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1578,
+            "start": 1330,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1577,
+            "start": 1329,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3450
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1554,
+            "start": 1325,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1553,
+            "start": 1323,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3450
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1559,
+            "start": 1323,
+            "end": 1324,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          },
+          "relationship": {
+            "identity": 1557,
+            "start": 1324,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1567,
+            "start": 1326,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3450
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1568,
+            "start": 1328,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1567,
+            "start": 1326,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3550
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1552,
+            "start": 1325,
+            "end": 1322,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3550
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1559,
+            "start": 1323,
+            "end": 1324,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          },
+          "relationship": {
+            "identity": 1560,
+            "start": 1324,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3550
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1576,
+            "start": 1330,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3550
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1554,
+            "start": 1325,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1567,
+            "start": 1326,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3650
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1559,
+            "start": 1323,
+            "end": 1324,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          },
+          "relationship": {
+            "identity": 1557,
+            "start": 1324,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1569,
+            "start": 1326,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1577,
+            "start": 1329,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3650
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1553,
+            "start": 1323,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1568,
+            "start": 1328,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3650
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1568,
+            "start": 1328,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1569,
+            "start": 1326,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1577,
+            "start": 1329,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3750
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1571,
+            "start": 1328,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1570,
+            "start": 1329,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3750
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1566,
+            "start": 1328,
+            "end": 1327,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          },
+          "relationship": {
+            "identity": 1565,
+            "start": 1327,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3750
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1578,
+            "start": 1330,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1577,
+            "start": 1329,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3750
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1553,
+            "start": 1323,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1579,
+            "start": 1330,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1585,
+            "start": 1332,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3750
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1553,
+            "start": 1323,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1554,
+            "start": 1325,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3750
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1571,
+            "start": 1328,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1577,
+            "start": 1329,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1579,
+            "start": 1330,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1585,
+            "start": 1332,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3850
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1554,
+            "start": 1325,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1569,
+            "start": 1326,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1577,
+            "start": 1329,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3850
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1567,
+            "start": 1326,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1568,
+            "start": 1328,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3850
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1553,
+            "start": 1323,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1561,
+            "start": 1325,
+            "end": 1327,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          },
+          "relationship": {
+            "identity": 1565,
+            "start": 1327,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3850
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1574,
+            "start": 1330,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3950
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1561,
+            "start": 1325,
+            "end": 1327,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          },
+          "relationship": {
+            "identity": 1565,
+            "start": 1327,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1571,
+            "start": 1328,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1577,
+            "start": 1329,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3950
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1554,
+            "start": 1325,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1559,
+            "start": 1323,
+            "end": 1324,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          },
+          "relationship": {
+            "identity": 1557,
+            "start": 1324,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3950
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1567,
+            "start": 1326,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1579,
+            "start": 1330,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1585,
+            "start": 1332,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 3950
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1579,
+            "start": 1330,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1580,
+            "start": 1332,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4050
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1569,
+            "start": 1326,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1570,
+            "start": 1329,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4050
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1569,
+            "start": 1326,
+            "end": 1329,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1329,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 8",
+              "power": 350
+            }
+          },
+          "relationship": {
+            "identity": 1577,
+            "start": 1329,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1579,
+            "start": 1330,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1585,
+            "start": 1332,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4150
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1558,
+            "start": 1326,
+            "end": 1324,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          },
+          "relationship": {
+            "identity": 1557,
+            "start": 1324,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4150
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1561,
+            "start": 1325,
+            "end": 1327,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          },
+          "relationship": {
+            "identity": 1562,
+            "start": 1327,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4250
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1559,
+            "start": 1323,
+            "end": 1324,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1324,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 3",
+              "power": 450
+            }
+          },
+          "relationship": {
+            "identity": 1557,
+            "start": 1324,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1579,
+            "start": 1330,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1585,
+            "start": 1332,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4250
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1568,
+            "start": 1328,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1579,
+            "start": 1330,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1585,
+            "start": 1332,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4350
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1579,
+            "start": 1330,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1580,
+            "start": 1332,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4350
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1561,
+            "start": 1325,
+            "end": 1327,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          },
+          "relationship": {
+            "identity": 1565,
+            "start": 1327,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1568,
+            "start": 1328,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4450
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1554,
+            "start": 1325,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1579,
+            "start": 1330,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1585,
+            "start": 1332,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4450
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1333,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 12",
+          "power": 1150
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1561,
+            "start": 1325,
+            "end": 1327,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1327,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 6",
+              "power": 1050
+            }
+          },
+          "relationship": {
+            "identity": 1565,
+            "start": 1327,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1579,
+            "start": 1330,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1585,
+            "start": 1332,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4550
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1332,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 11",
+          "power": 950
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1551,
+            "start": 1322,
+            "end": 1325,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1325,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 4",
+              "power": 650
+            }
+          },
+          "relationship": {
+            "identity": 1563,
+            "start": 1325,
+            "end": 1328,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1328,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 7",
+              "power": 150
+            }
+          },
+          "relationship": {
+            "identity": 1575,
+            "start": 1328,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          },
+          "relationship": {
+            "identity": 1586,
+            "start": 1333,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1585,
+            "start": 1332,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4650
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1322,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 1",
+          "power": 50
+        }
+      },
+      "end": {
+        "identity": 1332,
+        "labels": [
+          "Magnet"
+        ],
+        "properties": {
+          "name": "Magnet 11",
+          "power": 950
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1322,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 1",
+              "power": 50
+            }
+          },
+          "relationship": {
+            "identity": 1549,
+            "start": 1322,
+            "end": 1323,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1323,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 2",
+              "power": 250
+            }
+          },
+          "relationship": {
+            "identity": 1555,
+            "start": 1323,
+            "end": 1326,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1326,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 5",
+              "power": 850
+            }
+          },
+          "relationship": {
+            "identity": 1573,
+            "start": 1326,
+            "end": 1330,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1330,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 9",
+              "power": 550
+            }
+          },
+          "relationship": {
+            "identity": 1581,
+            "start": 1330,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          },
+          "relationship": {
+            "identity": 1586,
+            "start": 1333,
+            "end": 1332,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          }
+        },
+        {
+          "start": {
+            "identity": 1332,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 11",
+              "power": 950
+            }
+          },
+          "relationship": {
+            "identity": 1585,
+            "start": 1332,
+            "end": 1333,
+            "type": "NEIGHBOR_OF",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1333,
+            "labels": [
+              "Magnet"
+            ],
+            "properties": {
+              "name": "Magnet 12",
+              "power": 1150
+            }
+          }
+        }
+      ],
+      "length": 6.0
+    },
+    "totalPower": 4950
+  }
+]
